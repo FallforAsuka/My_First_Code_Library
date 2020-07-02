@@ -1,0 +1,10 @@
+..\obj\stm32f10x_iwdg.o: ..\FWlib\src\stm32f10x_iwdg.c
+..\obj\stm32f10x_iwdg.o: ..\FWlib\inc\stm32f10x_iwdg.h
+..\obj\stm32f10x_iwdg.o: ..\core\stm32f10x.h
+..\obj\stm32f10x_iwdg.o: ..\core\core_cm3.h
+..\obj\stm32f10x_iwdg.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\stm32f10x_iwdg.o: ..\core\system_stm32f10x.h
+..\obj\stm32f10x_iwdg.o: ..\obj\stm32f10x_conf.h
+..\obj\stm32f10x_iwdg.o: ..\FWlib\inc\stm32f10x_tim.h
+..\obj\stm32f10x_iwdg.o: ..\core\stm32f10x.h
+..\obj\stm32f10x_iwdg.o: ..\FWlib\inc\misc.h

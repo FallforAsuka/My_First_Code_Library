@@ -1,0 +1,16 @@
+..\obj\key.o: ..\system\KEY\key.c
+..\obj\key.o: ..\system\KEY\key.h
+..\obj\key.o: ..\core\stm32f10x.h
+..\obj\key.o: ..\core\core_cm3.h
+..\obj\key.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\key.o: ..\core\system_stm32f10x.h
+..\obj\key.o: ..\obj\stm32f10x_conf.h
+..\obj\key.o: ..\FWlib\inc\stm32f10x_tim.h
+..\obj\key.o: ..\core\stm32f10x.h
+..\obj\key.o: ..\FWlib\inc\misc.h
+..\obj\key.o: ..\system\SYS\sys.h
+..\obj\key.o: ..\system\LED\led.h
+..\obj\key.o: ..\system\BEEP\beep.h
+..\obj\key.o: ..\system\SYS\sys.h
+..\obj\key.o: ..\system\DELAY\delay.h
+..\obj\key.o: ..\FWlib\inc\stm32f10x_gpio.h

@@ -1,0 +1,14 @@
+..\obj\74hc595.o: ..\system\74HC595\74hc595.c
+..\obj\74hc595.o: ..\system\74HC595\74hc595.h
+..\obj\74hc595.o: ..\core\stm32f10x.h
+..\obj\74hc595.o: ..\core\core_cm3.h
+..\obj\74hc595.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\74hc595.o: ..\core\system_stm32f10x.h
+..\obj\74hc595.o: ..\obj\stm32f10x_conf.h
+..\obj\74hc595.o: ..\FWlib\inc\stm32f10x_tim.h
+..\obj\74hc595.o: ..\core\stm32f10x.h
+..\obj\74hc595.o: ..\FWlib\inc\misc.h
+..\obj\74hc595.o: ..\system\SYS\sys.h
+..\obj\74hc595.o: ..\system\LED\led.h
+..\obj\74hc595.o: ..\system\BEEP\beep.h
+..\obj\74hc595.o: ..\system\SYS\sys.h

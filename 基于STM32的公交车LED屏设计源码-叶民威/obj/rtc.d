@@ -1,0 +1,15 @@
+..\obj\rtc.o: ..\system\RTC\rtc.c
+..\obj\rtc.o: ..\system\RTC\rtc.h
+..\obj\rtc.o: ..\core\stm32f10x.h
+..\obj\rtc.o: ..\core\core_cm3.h
+..\obj\rtc.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\rtc.o: ..\core\system_stm32f10x.h
+..\obj\rtc.o: ..\obj\stm32f10x_conf.h
+..\obj\rtc.o: ..\FWlib\inc\stm32f10x_tim.h
+..\obj\rtc.o: ..\core\stm32f10x.h
+..\obj\rtc.o: ..\FWlib\inc\misc.h
+..\obj\rtc.o: ..\system\SYS\sys.h
+..\obj\rtc.o: ..\system\LED\led.h
+..\obj\rtc.o: ..\system\BEEP\beep.h
+..\obj\rtc.o: ..\system\SYS\sys.h
+..\obj\rtc.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdio.h

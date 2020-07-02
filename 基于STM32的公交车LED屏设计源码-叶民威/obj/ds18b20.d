@@ -1,0 +1,16 @@
+..\obj\ds18b20.o: ..\system\DS18B20\ds18b20.c
+..\obj\ds18b20.o: ..\system\DS18B20\ds18b20.h
+..\obj\ds18b20.o: ..\core\stm32f10x.h
+..\obj\ds18b20.o: ..\core\core_cm3.h
+..\obj\ds18b20.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\ds18b20.o: ..\core\system_stm32f10x.h
+..\obj\ds18b20.o: ..\obj\stm32f10x_conf.h
+..\obj\ds18b20.o: ..\FWlib\inc\stm32f10x_tim.h
+..\obj\ds18b20.o: ..\core\stm32f10x.h
+..\obj\ds18b20.o: ..\FWlib\inc\misc.h
+..\obj\ds18b20.o: ..\system\DELAY\delay.h
+..\obj\ds18b20.o: ..\system\SYS\sys.h
+..\obj\ds18b20.o: ..\system\LED\led.h
+..\obj\ds18b20.o: ..\system\BEEP\beep.h
+..\obj\ds18b20.o: ..\system\SYS\sys.h
+..\obj\ds18b20.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdio.h

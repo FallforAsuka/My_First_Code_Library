@@ -1,0 +1,10 @@
+..\obj\stm32f10x_rtc.o: ..\FWlib\src\stm32f10x_rtc.c
+..\obj\stm32f10x_rtc.o: ..\FWlib\inc\stm32f10x_rtc.h
+..\obj\stm32f10x_rtc.o: ..\core\stm32f10x.h
+..\obj\stm32f10x_rtc.o: ..\core\core_cm3.h
+..\obj\stm32f10x_rtc.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\stm32f10x_rtc.o: ..\core\system_stm32f10x.h
+..\obj\stm32f10x_rtc.o: ..\obj\stm32f10x_conf.h
+..\obj\stm32f10x_rtc.o: ..\FWlib\inc\stm32f10x_tim.h
+..\obj\stm32f10x_rtc.o: ..\core\stm32f10x.h
+..\obj\stm32f10x_rtc.o: ..\FWlib\inc\misc.h

@@ -1,0 +1,13 @@
+..\obj\sys.o: ..\system\SYS\sys.c
+..\obj\sys.o: ..\system\SYS\sys.h
+..\obj\sys.o: ..\core\stm32f10x.h
+..\obj\sys.o: ..\core\core_cm3.h
+..\obj\sys.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\sys.o: ..\core\system_stm32f10x.h
+..\obj\sys.o: ..\obj\stm32f10x_conf.h
+..\obj\sys.o: ..\FWlib\inc\stm32f10x_tim.h
+..\obj\sys.o: ..\core\stm32f10x.h
+..\obj\sys.o: ..\FWlib\inc\misc.h
+..\obj\sys.o: ..\system\LED\led.h
+..\obj\sys.o: ..\system\BEEP\beep.h
+..\obj\sys.o: ..\system\SYS\sys.h

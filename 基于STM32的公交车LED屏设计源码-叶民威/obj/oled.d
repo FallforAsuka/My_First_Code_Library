@@ -1,0 +1,16 @@
+..\obj\oled.o: ..\system\OLED\oled.c
+..\obj\oled.o: ..\system\OLED\oled.h
+..\obj\oled.o: ..\core\stm32f10x.h
+..\obj\oled.o: ..\core\core_cm3.h
+..\obj\oled.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\oled.o: ..\core\system_stm32f10x.h
+..\obj\oled.o: ..\obj\stm32f10x_conf.h
+..\obj\oled.o: ..\FWlib\inc\stm32f10x_tim.h
+..\obj\oled.o: ..\core\stm32f10x.h
+..\obj\oled.o: ..\FWlib\inc\misc.h
+..\obj\oled.o: ..\system\DELAY\delay.h
+..\obj\oled.o: ..\system\SYS\sys.h
+..\obj\oled.o: ..\system\LED\led.h
+..\obj\oled.o: ..\system\BEEP\beep.h
+..\obj\oled.o: ..\system\SYS\sys.h
+..\obj\oled.o: D:\Keil5\ARM\ARMCC\Bin\..\include\string.h

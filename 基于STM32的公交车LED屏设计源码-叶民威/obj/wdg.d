@@ -1,0 +1,14 @@
+..\obj\wdg.o: ..\system\WDG\wdg.c
+..\obj\wdg.o: ..\system\WDG\wdg.h
+..\obj\wdg.o: ..\core\stm32f10x.h
+..\obj\wdg.o: ..\core\core_cm3.h
+..\obj\wdg.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\wdg.o: ..\core\system_stm32f10x.h
+..\obj\wdg.o: ..\obj\stm32f10x_conf.h
+..\obj\wdg.o: ..\FWlib\inc\stm32f10x_tim.h
+..\obj\wdg.o: ..\core\stm32f10x.h
+..\obj\wdg.o: ..\FWlib\inc\misc.h
+..\obj\wdg.o: ..\system\SYS\sys.h
+..\obj\wdg.o: ..\system\LED\led.h
+..\obj\wdg.o: ..\system\BEEP\beep.h
+..\obj\wdg.o: ..\system\SYS\sys.h

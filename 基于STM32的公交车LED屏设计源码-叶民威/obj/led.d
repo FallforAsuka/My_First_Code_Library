@@ -1,0 +1,10 @@
+..\obj\led.o: ..\system\LED\led.c
+..\obj\led.o: ..\system\LED\led.h
+..\obj\led.o: ..\core\stm32f10x.h
+..\obj\led.o: ..\core\core_cm3.h
+..\obj\led.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\led.o: ..\core\system_stm32f10x.h
+..\obj\led.o: ..\obj\stm32f10x_conf.h
+..\obj\led.o: ..\FWlib\inc\stm32f10x_tim.h
+..\obj\led.o: ..\core\stm32f10x.h
+..\obj\led.o: ..\FWlib\inc\misc.h
